@@ -15,6 +15,8 @@ int main(){
         arr[i] = arr[i+1];
         arr[i+1] = random;
         ++i;
+
+        
     }
     
     for(auto i : arr){
