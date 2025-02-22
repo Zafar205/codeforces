@@ -13,6 +13,10 @@ vector<vector<int>>& res, vector<int>& subset) {
         return;
     }
     
+
+
+
+    
     // include the current value and 
     // recursively find all subsets
     subset.push_back(arr[i]);
