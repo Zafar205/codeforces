@@ -6,6 +6,8 @@ int main(){
     int n;
     cin>>n;
     for(int a=0 ; a<n; ++a){
+
+        
         int i,j,k;
         cin>>i >> j>> k;
         if(i+j+k >= 2){
@@ -13,7 +15,7 @@ int main(){
 
 
 
-            
+
         }
     }
 
