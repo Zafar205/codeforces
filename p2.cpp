@@ -10,6 +10,10 @@ int main(){
         cin>>i >> j>> k;
         if(i+j+k >= 2){
             ++t;
+
+
+
+            
         }
     }
 
