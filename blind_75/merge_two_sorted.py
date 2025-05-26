@@ -25,6 +25,8 @@ def merge(list1, list2):
         result.append(list2[j])
         j += 1
 
+
+
     return result
 
 print(merge(l1, l2))
