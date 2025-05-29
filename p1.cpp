@@ -9,7 +9,8 @@ void func(string s) {
         cout << s.front() << s.size() - 2 << s.back() << "\n";  // Use .front() and .back()
     }
 }
- 
+
+
 int main() {
     int n;
     cin >> n;
